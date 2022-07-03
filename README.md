@@ -7,7 +7,7 @@ README dosyası, bir adet index.html barındırıyor.
 
 Öncelikle projeyi clone'layın.
 
-´git clone https://github.com/enverediz/kodluyoruzilkrepo.git´
+`git clone https://github.com/enverediz/kodluyoruzilkrepo.git`
 
 ## Usage
 
@@ -15,12 +15,12 @@ Projeyi clone'ladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-´´´
+```
 cd kodluyoruzilkrepo
 code .
-´´´
+```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilebilir. Büyük değişiklikler için lütfen önce neyi değiştirmek
 istediğinizi seçin.
@@ -29,5 +29,5 @@ istediğinizi seçin.
 
 [MIT](https://opensource.org/licenses/MIT)
 
-##Proje Resmi
+## Proje Resmi
 ![Proje Resmi](https://resimyukle.io/r/AWznV0Q35Q)
