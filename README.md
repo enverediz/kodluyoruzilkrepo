@@ -30,4 +30,4 @@ istediğinizi seçin.
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Proje Resmi
-![Proje Resmi](https://resimyukle.io/r/AWznV0Q35Q)
+![Image](https://resimyukle.io/r/AWznV0Q35Q)
