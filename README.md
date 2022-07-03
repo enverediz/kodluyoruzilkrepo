@@ -30,4 +30,4 @@ istediğinizi seçin.
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Proje Resmi
-![Image](https://resimyukle.io/r/AWznV0Q35Q)
+![Image](https://resimyukle.imageupload.workers.dev/HFMES5Hl_patika.jpg)
