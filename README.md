@@ -33,5 +33,5 @@ istediğinizi seçin.
 
 [Patika](https://www.patika.dev)
 
-![Image](https://resimyukle.imageupload.workers.dev/HFMES5Hl_patika.jpg)
+![Image](http://resimyukle.imageupload.workers.dev/HFMES5Hl_patika.jpg)
 
